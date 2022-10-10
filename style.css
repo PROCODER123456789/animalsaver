@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
+h3{
+    font-family: 'Silkscreen', cursive;
+    color:#fc68eb;
+}
+
+
+
+  h5{
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 30;
+  }
+
+  body{
+    background-image: linear-gradient(to left bottom, #ff00e2,#fc68eb,#ffc400,#eeff01, #fdff6a, #fcf488, #f8fa7c,#fff56e,#fcf481);
+   
+  }
+
+  #vid{
+      color: #002fff;
+  }
